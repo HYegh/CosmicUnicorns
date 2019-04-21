@@ -284,8 +284,7 @@
         <a href="#">
           <h4 class="card-title">Free Shipping Across US</h4>
         </a>
-        <p class="card-text mb-4"> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
-          incididunt ut labore et dolore magna.</p>
+        <p class="card-text mb-4"> Each cosmically awesome custom book ships to you anywhere across the US totally FREE. </p>
         <a href="#" class="btn btn-primary btn-sm">Apply now</a>
       </div>
     </div>
@@ -298,8 +297,7 @@
         <a href="#">
           <h4 class="card-title">Stories Teach Important Values</h4>
         </a>
-        <p class="card-text mb-4"> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
-          incididunt ut labore et dolore magna.</p>
+        <p class="card-text mb-4"> Stories include positive messages and values such as gratitude, kindness, cultivating a sense of adventure and how to calm down. </p>
         <a href="#" class="btn btn-primary btn-sm">Apply now</a>
       </div>
     </div>
@@ -312,8 +310,7 @@
         <a href="#">
           <h4 class="card-title">Each Books is Unique</h4>
         </a>
-        <p class="card-text mb-4"> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
-          incididunt ut labore et dolore magna.</p>
+        <p class="card-text mb-4"> To create your custom adventure select 10 mini stories in the order you’d like. Create endless variations, selecting different stories each time! </p>
         <a href="#" class="btn btn-primary btn-sm">Apply now</a>
       </div>
     </div>
@@ -326,8 +323,7 @@
         <a href="#">
           <h4 class="card-title">Perfect Gift Idea</h4>
         </a>
-        <p class="card-text mb-4"> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
-          incididunt ut labore et dolore magna.</p>
+        <p class="card-text mb-4"> Customize the character to look like your loved one and they become the STAR of the book! Excellent gift idea for birthdays, holidays or just for fun!</p>
         <a href="#" class="btn btn-primary btn-sm">Apply now</a>
       </div>
     </div>
@@ -340,8 +336,7 @@
         <a href="#">
           <h4 class="card-title">Messages are Affirming and Value Diversity</h4>
         </a>
-        <p class="card-text mb-4"> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
-          incididunt ut labore et dolore magna.</p>
+        <p class="card-text mb-4"> Rather than forcing you to select a gender our characters are customized by hairstyle and outfit to match the likeness of your favorite little unicorn!</p>
         <a href="#" class="btn btn-primary btn-sm">Apply now</a>
       </div>
     </div>
@@ -349,13 +344,14 @@
   <!-- course item -->
   <div class="col-lg-4 col-sm-6 mb-5">
     <div class="card p-0 border-primary rounded-0 hover-shadow">
-      <img class="card-img-top rounded-0" style="height: 250px; object-fit: contain;" src="{{url('/client/images/courses/Secure.png')}}" alt="course thumb">
+      <div style="width: 100%; height: 250px;">
+        <img class="card-img-top rounded-0" style="height: 250px; object-fit: contain;" src="{{url('/client/images/courses/Secure.png')}}" alt="course thumb">
+      </div>
       <div class="card-body">
         <a href="#">
           <h4 class="card-title">Fast and Secure</h4>
         </a>
-        <p class="card-text mb-4"> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
-          incididunt ut labore et dolore magna.</p>
+        <p class="card-text mb-4"> Our website is protected by the best and brightest rainbows, glitter and the finest internet wizardry. We promise we will never share or sell your information. </p>
         <a href="#" class="btn btn-primary btn-sm">Apply now</a>
       </div>
     </div>
@@ -534,7 +530,7 @@
           <a class="logo-footer" href="#"><img class="img-fluid mb-4" src="{{url('/client/images/logo.png')}}" alt="logo"></a>
         </div>
         <!-- company -->
-        <div class="col-lg-2 col-md-3 col-sm-4 col-6 mb-5 mb-md-0">
+        <div class="col-lg-4 col-md-3 col-sm-4 col-6 mb-5 mb-md-0">
           <h4 class="text-white mb-5">CONTACT US</h4>
           <ul class="list-unstyled">
             <li class="mb-3"><a class="text-color" href="#">FAQ</a></li>
@@ -544,7 +540,7 @@
           </ul>
         </div>
         <!-- links -->
-        <div class="col-lg-2 col-md-3 col-sm-4 col-6 mb-5 mb-md-0">
+        <div class="col-lg-4 col-md-2 col-sm-4 col-6 mb-5 mb-md-0">
           <h4 class="text-white mb-5">UNICONS</h4>
           <ul class="list-unstyled">
             <li class="mb-3"><a class="text-color" href="#">Personalized Children's Books (How it Works)</a></li>
@@ -553,14 +549,14 @@
           </ul>
         </div>
         <!-- support -->
-        <div class="col-lg-2 col-md-3 col-sm-4 col-6 mb-5 mb-md-0">
+        <!-- <div class="col-lg-2 col-md-3 col-sm-4 col-6 mb-5 mb-md-0">
           <h4 class="text-white mb-5">SUPPORT</h4>
           <ul class="list-unstyled">
             <li class="mb-3"><a class="text-color" href="#">Facebook (Liink)</a></li>
             <li class="mb-3"><a class="text-color" href="#">Instagram (Link)</a></li>
             <li class="mb-3"><a class="text-color" href="#">Pinterest (link)</a></li>
           </ul>
-        </div>
+        </div> -->
       </div>
     </div>
   </div>
