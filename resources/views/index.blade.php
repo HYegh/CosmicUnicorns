@@ -68,13 +68,16 @@
               <a class="nav-link" href="#">Home</a>
             </li>
             <li class="nav-item @@about">
-              <a class="nav-link" href="#">For Girls</a>
+              <a class="nav-link" href="#">For All Children</a>
             </li>
             <li class="nav-item @@courses">
-              <a class="nav-link" href="#">For Boys</a>
+              <a class="nav-link" href="#">How It Works</a>
             </li>
             <li class="nav-item @@events">
               <a class="nav-link" href="#">Gift</a>
+            </li>
+            <li class="nav-item @@events">
+              <a class="nav-link" href="#">Contact Us</a>
             </li>
            <!--  <li class="nav-item dropdown view">
               <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown"
